@@ -1,4 +1,3 @@
-co-latam/
 .vscode
-Archivos
-ArchivosDiseñoWEB.bar
+*.pptx
+.DS_Store
