@@ -11377,6 +11377,8 @@ html.rd-navbar-fixed-linked .page {
 	height:300px;
 }
 .swiper-container {
+	width: 100%;
+    /* height: 100px; */
 	position: relative;
 	display: flex;
 	margin: 0 auto;
@@ -12242,7 +12244,8 @@ button.swiper-pagination-bullet {
 }
 
 .swiper-slider-business {
-	min-height: 41.66667vw;
+	min-height: 61.66667vw;
+	/* min-height: 41.66667vw; */
 	margin-top:90px;
 }
 

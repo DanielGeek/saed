@@ -384,7 +384,7 @@
             <div class="col-md-10 col-lg-6 wow-outer">
               <div class="thumbnail-video-1 bg-gray-700 wow slideInLeft">
                 <div class="embed-responsive embed-responsive-16by9">
-                  <iframe width="570" height="320" src="https://www.youtube.com/embed/_DWMeUC2tBE?rel=0&amp;start=21" allowfullscreen=""></iframe>
+                  <!-- <iframe width="570" height="320" src="https://www.youtube.com/embed/_DWMeUC2tBE?rel=0&amp;start=21" allowfullscreen=""></iframe> -->
                 </div>
                 <div class="thumbnail-video__overlay video-overlay" style="background-image: url(images/video-preview-1-570x320.jpg)">
                   <div class="button-video"></div>
