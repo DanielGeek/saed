@@ -10,11 +10,11 @@
         </div>
         <div class="modal-body">
             <div class="row">
-                <div class="col-md-4 cuadro-asesoria">    
+                <div class="col-md-5 cuadro-asesoria">    
                     <h3 class="cuadro-texto">Especificaciones técnicas</h3>
                 </div>
 
-                <div class="col-md-8 cuadro-lista-servicios">
+                <div class="col-md-7 cuadro-lista-servicios">
                     <ul class="lista-servicios">
                         <li class="profile-minimal-position profile-minimal-position-editado">Análisis de proyecto para realizar una especificación del sistema protector mas recomendado, de acuerdo a las características de los materiales y tomando en cuenta la exposición y resistencia requerida. Se presentan <span class="span-rojo">diferentes</span> alternativas <span class="span-rojo">de esquemas</span>, considerando a las empresas más reconocidas del mercado, ampliando las posibilidades de elección.</li>
                         <li class="profile-minimal-position">Solicite su visita.</li>

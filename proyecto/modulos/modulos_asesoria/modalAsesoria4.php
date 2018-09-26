@@ -10,12 +10,12 @@
         </div>
         <div class="modal-body">
             <div class="row">
-                <div class="col-md-4 cuadro-asesoria">    
+                <div class="col-md-5 cuadro-asesoria">    
                     <h3 class="cuadro-texto">Entrenamiento de equipos Airless Graco</h3>
                     <br><br>
                 </div>
 
-                <div class="col-md-8 cuadro-lista-servicios">
+                <div class="col-md-7 cuadro-lista-servicios">
                     <ul class="lista-servicios">
                         <li class="profile-minimal-position profile-minimal-position-editado">Entrenamientos práctico en aplicación de pinturas y revestimientos con Sistemas Airless Graco, donde se enseña a los participantes a realizar la puesta en marcha y mantención diaria de los equipos, elección correcta de una boquilla y técnicas de aplicación.</li>
                     </ul>
