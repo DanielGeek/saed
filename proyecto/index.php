@@ -356,32 +356,6 @@
         ?>  
       <!-- fin div para quienes somos -->
 
-      <!-- <section id="clientes"class="section section-md bg-primary-azul text-center">
-        <div class="container">
-          <div class="box-cta-1">
-            <h3 style="color:white;" class="wow-outer"><span class="wow slideInRight">Poseemos un centro de contacto de <span class="font-weight-bold">Primer Nivel</span></span></h3>
-            <div class="wow-outer button-outer"><a class="button button-lg button-primary button-winona wow slideInLeft" href="#">Free consultation</a></div>
-          </div>
-        </div>
-      </section> -->
-      <!-- <section class="section-grande text-center"> -->
-        <!-- <div class="parallax-container" data-parallax-img="images/imagen_div.png">
-          <div class="parallax-content">
-            <div class="jumbotron-classic-inner">
-              <div class="container">
-                <div  id="nosotros" class="jumbotron-classic-content">
-                  <div class="wow-outer">
-                    
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div> -->
-        
-        <!-- <img  src="images/imagen_div_2.png"/>
-      </section> -->
-
       <!-- Testimonials & Video-->
       <section class="section section-lg bg-gray-100">
         <div class="container">
@@ -410,7 +384,7 @@
             <div class="col-md-10 col-lg-6 wow-outer">
               <div class="thumbnail-video-1 bg-gray-700 wow slideInLeft">
                 <div class="embed-responsive embed-responsive-16by9">
-                  <!-- <iframe width="570" height="320" src="https://www.youtube.com/embed/_DWMeUC2tBE?rel=0&amp;start=21" allowfullscreen=""></iframe> -->
+                  <iframe width="570" height="320" src="https://www.youtube.com/embed/_DWMeUC2tBE?rel=0&amp;start=21" allowfullscreen=""></iframe>
                 </div>
                 <div class="thumbnail-video__overlay video-overlay" style="background-image: url(images/video-preview-1-570x320.jpg)">
                   <div class="button-video"></div>
@@ -421,78 +395,6 @@
           </div>
         </div>
       </section>
-
-      <!-- CTA Thin-->
-      <!-- <section class="section section-xs bg-primary-darker text-center">
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-sm-10 col-md-12">
-              <div class="box-cta-thin">
-                <h4 class="wow-outer"><span class="wow slideInRight">Learn the Cost of Personalized <span class="font-weight-bold">Customer Support Service</span> Now!</span></h4>
-                <div class="wow-outer button-outer"><a class="button button-primary button-winona wow slideInLeft" href="pricing.html">View all pricing</a></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section> -->
-
-      <!-- Our Team-->
-      <!-- <section class="section section-lg text-center">
-        <div class="container">
-          <h3 class="wow-outer"><span class="wow slideInUp">Our Team</span></h3>
-          <div class="row row-50">
-            <div class="col-sm-6 col-lg-3 wow-outer">
-              Profile Classic
-              <article class="profile-classic wow slideInLeft">
-                <div class="profile-classic-main"><img class="profile-classic-image" src="images/team-1-270x273.jpg" alt="" width="270" height="273"/>
-                  <div class="profile-classic-caption">
-                    <div class="group group-xs group-middle"><a class="icon icon-sm icon-creative mdi mdi-facebook" href="#"></a><a class="icon icon-sm icon-creative mdi mdi-twitter" href="#"></a><a class="icon icon-sm icon-creative mdi mdi-instagram" href="#"></a><a class="icon icon-sm icon-creative mdi mdi-google" href="#"></a><a class="icon icon-sm icon-creative mdi mdi-linkedin" href="#"></a></div>
-                  </div>
-                </div>
-                <h5 class="profile-classic-title"><a href="#">Nathan Porter</a></h5>
-                <p class="profile-classic-position">CEO, Founder</p>
-              </article>
-            </div>
-            <div class="col-sm-6 col-lg-3 wow-outer">
-              Profile Classic
-              <article class="profile-classic wow slideInLeft" data-wow-delay=".05s">
-                <div class="profile-classic-main"><img class="profile-classic-image" src="images/team-2-270x273.jpg" alt="" width="270" height="273"/>
-                  <div class="profile-classic-caption">
-                    <div class="group group-xs group-middle profile-classic-group"><a class="icon icon-sm icon-creative mdi mdi-facebook" href="#"></a><a class="icon icon-sm icon-creative mdi mdi-twitter" href="#"></a><a class="icon icon-sm icon-creative mdi mdi-instagram" href="#"></a><a class="icon icon-sm icon-creative mdi mdi-google" href="#"></a><a class="icon icon-sm icon-creative mdi mdi-linkedin" href="#"></a></div>
-                  </div>
-                </div>
-                <h5 class="profile-classic-title"><a href="#">Jean Thompson</a></h5>
-                <p class="profile-classic-position">Project Manager</p>
-              </article>
-            </div>
-            <div class="col-sm-6 col-lg-3 wow-outer">
-              Profile Classic
-              <article class="profile-classic wow slideInLeft" data-wow-delay=".1s">
-                <div class="profile-classic-main"><img class="profile-classic-image" src="images/team-3-270x273.jpg" alt="" width="270" height="273"/>
-                  <div class="profile-classic-caption">
-                    <div class="group group-xs group-middle profile-classic-group"><a class="icon icon-sm icon-creative mdi mdi-facebook" href="#"></a><a class="icon icon-sm icon-creative mdi mdi-twitter" href="#"></a><a class="icon icon-sm icon-creative mdi mdi-instagram" href="#"></a><a class="icon icon-sm icon-creative mdi mdi-google" href="#"></a><a class="icon icon-sm icon-creative mdi mdi-linkedin" href="#"></a></div>
-                  </div>
-                </div>
-                <h5 class="profile-classic-title"><a href="#">Brian Payne</a></h5>
-                <p class="profile-classic-position">Manager</p>
-              </article>
-            </div>
-            <div class="col-sm-6 col-lg-3 wow-outer">
-              Profile Classic
-              <article class="profile-classic wow slideInLeft" data-wow-delay=".15s">
-                <div class="profile-classic-main"><img class="profile-classic-image" src="images/team-4-270x273.jpg" alt="" width="270" height="273"/>
-                  <div class="profile-classic-caption">
-                    <div class="group group-xs group-middle profile-classic-group"><a class="icon icon-sm icon-creative mdi mdi-facebook" href="#"></a><a class="icon icon-sm icon-creative mdi mdi-twitter" href="#"></a><a class="icon icon-sm icon-creative mdi mdi-instagram" href="#"></a><a class="icon icon-sm icon-creative mdi mdi-google" href="#"></a><a class="icon icon-sm icon-creative mdi mdi-linkedin" href="#"></a></div>
-                  </div>
-                </div>
-                <h5 class="profile-classic-title"><a href="#">Marie Fernandez</a></h5>
-                <p class="profile-classic-position">Marketing Manager</p>
-              </article>
-            </div>
-          </div>
-          <div class="wow-outer button-outer"><a class="button button-lg button-primary button-winona wow slideInUp" href="#">View all Team</a></div>
-        </div>
-      </section> -->
 
       <!-- Careers-->
       <section id="cursos" class="section section-lg bg-gray-100 text-center">
@@ -942,20 +844,7 @@
                         <div class="wow-outer"><a class="button button-primary-outline button-icon button-icon-left button-winona wow slideInLeft" href="#"><span class="icon text-primary mdi mdi-facebook-messenger"></span>Messenger</a></div> -->
                       </div>
                     </form>
-                    <!-- <ul class="list-sm offset-top-2 wow-outer" style="max-width: 380px;">
-                  
-                      <li class="object-inline wow slideInLeft"><span class="icon icon-md mdi mdi-map-marker text-primary"></span><a class="link-default" href="#">JR. Camana 390 Piso 2 <br> Cercado de Lima-Peru </a></li>
-                      <li class="object-inline wow slideInLeft"><span class="icon icon-md mdi mdi-map-marker text-primary"></span><a class="link-default" href="#">Huerfanos 757 Oficina 210, <br> Santiago-Chile</a></li>
-                      <li class="object-inline wow slideInLeft"><span class="icon icon-md mdi mdi-map-marker text-primary"></span><a class="link-default" href="#">Barros Borgoño Oficina 305, <br> Providencia Santiago-Chile</a></li>
-                      <li class="object-inline wow slideInLeft"><span class="icon icon-md mdi fl-bigmug-line-note35 text-primary"></span><a class="link-default" href="mailto:#">Jorge Leiva Quiroz | Gerente General</a></li>
-                      <li class="object-inline wow slideInLeft"><span class="icon icon-md mdi mdi-email text-primary"></span><a class="link-default" href="mailto:#">jorge@co-latam.com </a></li>
-                      <li class="object-inline wow slideInLeft"><span class="icon icon-md mdi mdi-phone text-primary"></span>
-                        <ul class="list-0">
-                          <li><a class="link-default" href="tel:#">+56 942-442-305</a></li>
-                          <li><a class="link-default" href="tel:#">+51 994-245-950</a></li>
-                        </ul>
-                      </li>
-                    </ul> -->
+                    
                   </div>
                 </div>
               </div>
