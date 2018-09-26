@@ -7992,7 +7992,7 @@ html [class*='section-'].section-bottom-0 {
 	background-repeat: no-repeat;
 }
 
-.section-halfscreen-image::before {
+.sectionsection-halfscreen-image::before {
 	content: '';
 	position: absolute;
 	top: 0;
@@ -12261,7 +12261,7 @@ button.swiper-pagination-bullet {
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background: linear-gradient(to right, rgba(56, 52, 42, 0.7), rgba(56, 52, 42, 0.4));
+	/* background: linear-gradient(to right, rgba(56, 52, 42, 0.7), rgba(56, 52, 42, 0.4)); */
 	pointer-events: none;
 }
 
